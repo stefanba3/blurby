@@ -7,6 +7,7 @@ package policies.hello
 default allowed = false
 default visible = false
 default enabled = false
+default versioned_005 = true
 
 allowed {
     input.role == "web-admin"
@@ -19,3 +20,4 @@ enabled {
 visible {
     input.app == "web-console"
 }
+
