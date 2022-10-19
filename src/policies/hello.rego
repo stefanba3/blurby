@@ -1,6 +1,6 @@
 package policies.hello
 
-# 0.0.1
+# 0.0.2
 # default to a "closed" system, 
 # only grant access when explicitly granted
 
