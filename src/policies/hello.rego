@@ -6,7 +6,7 @@ package policies.hello
 default allowed = false
 default visible = false
 default enabled = false
-default versioned_008
+default versioned_009
 
 allowed {
     input.role == "web-admin"
